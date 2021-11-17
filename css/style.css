@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+.text{
+    text-align: left;
+}
+.submit{
+    padding: 10px;
+    background-color: saddlebrown;
+    color: white;
+    margin-left: 600px;
+}
+.label{
+    font-size: large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color:darksalmon;
+}
+.input{
+    background-color:tan;
+}
